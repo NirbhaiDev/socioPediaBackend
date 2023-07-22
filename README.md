@@ -34,7 +34,7 @@ Key Features:
 #11. Content Moderation: We employ advanced content moderation tools to ensure the platform remains free from harmful or inappropriate content, creating a safe and enjoyable experience for all users.
 ## Authors
 
-- [@octokatherine]( https://github.com/NirbhaiDev)
+- [@NirbhaiDev](https://github.com/NirbhaiDev)
 
 
 
