@@ -32,6 +32,9 @@ Key Features:
 #10. Real-Time Notifications: Users receive real-time notifications for likes, comments, new followers, and group activities, enhancing user engagement and interaction.
 
 #11. Content Moderation: We employ advanced content moderation tools to ensure the platform remains free from harmful or inappropriate content, creating a safe and enjoyable experience for all users.
+## Authors
+
+- [@octokatherine]( https://github.com/NirbhaiDev)
 
 
 
